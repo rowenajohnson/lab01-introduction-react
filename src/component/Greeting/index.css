@@ -1,0 +1,14 @@
+.jumbotron {
+  background-color: blue;
+  border-style: solid;
+  font-weight: bold;
+  padding-top: 50px;
+  margin-top: 25px;
+  border-radius: 25px;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  padding: 100px;
+  color: darkgrey;
+}
